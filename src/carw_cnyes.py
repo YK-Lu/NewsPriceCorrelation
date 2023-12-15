@@ -1,7 +1,6 @@
 import requests
 import csv
 import time
-import random
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 
